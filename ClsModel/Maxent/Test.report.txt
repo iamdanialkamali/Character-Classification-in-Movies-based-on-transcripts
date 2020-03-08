@@ -1,0 +1,25 @@
+
+-------------------- Trial 0  --------------------
+
+Trial 0 Training MaxEntTrainer,gaussianPriorVariance=1.0 with 15848 instances
+Trial 0 Training MaxEntTrainer,gaussianPriorVariance=1.0 finished
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 Test Data Confusion Matrix
+Confusion Matrix, row=true, column=predicted  accuracy=0.6028780610956829 most-frequent-tag baseline=0.5352183791971724
+     label   0   1  |total
+  0 label1 1216 904  |2120
+  1 label2 669 1172  |1841
+
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data precision(label1) = 0.6450928381962865
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data precision(label2) = 0.5645472061657033
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data recall(label1) = 0.5735849056603773
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data recall(label2) = 0.6366105377512221
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data F1(label1) = 0.6072409488139826
+Trial 0 Trainer MaxEntTrainer,gaussianPriorVariance=1.0 test data F1(label2) = 0.5984171559867246
+
+MaxEntTrainer,gaussianPriorVariance=1.0
+Summary. test precision(label1) mean = 0.6450928381962865 stddev = 0.0 stderr = 0.0
+Summary. test precision(label2) mean = 0.5645472061657033 stddev = 0.0 stderr = 0.0
+Summary. test recall(label1) mean = 0.5735849056603773 stddev = 0.0 stderr = 0.0
+Summary. test recall(label2) mean = 0.6366105377512221 stddev = 0.0 stderr = 0.0
+Summary. test f1(label1) mean = 0.6072409488139826 stddev = 0.0 stderr = 0.0
+Summary. test f1(label2) mean = 0.5984171559867246 stddev = 0.0 stderr = 0.0

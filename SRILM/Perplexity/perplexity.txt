@@ -1,0 +1,37 @@
+label1 1gram train:  2270 sentences, 42853 words, 0 OOVs
+0 zeroprobs, logprob= -119366 ppl= 441.9245 ppl1= 610.2066
+
+label1 2gram train : ./SplitedData/train/label1.txt: 2270 sentences, 42853 words, 0 OOVs
+0 zeroprobs, logprob= -132335.5 ppl= 856.5895 ppl1= 1224.974
+
+label1 3gram train :file ./SplitedData/train/label1.txt: 2270 sentences, 42853 words, 0 OOVs
+0 zeroprobs, logprob= -138620.4 ppl= 1180.475 ppl1= 1717.075
+
+label1 1gram test :file ./SplitedData/test/label1.txt: 9156 sentences, 184753 words, 31348 OOVs
+0 zeroprobs, logprob= -410518.5 ppl= 335.2121 ppl1= 474.2897
+
+label1 2gram test :file ./SplitedData/test/label1.txt: 9156 sentences, 184753 words, 31348 OOVs
+0 zeroprobs, logprob= -453096.3 ppl= 612.6868 ppl1= 898.6596
+
+label1 3gram test :file ./SplitedData/test/label1.txt: 9156 sentences, 184753 words, 31348 OOVs
+0 zeroprobs, logprob= -463540.4 ppl= 710.3724 ppl1= 1051.181
+
+label2 1gram train :file ./SplitedData/train/label2.txt: 1920 sentences, 23361 words, 0 OOVs
+0 zeroprobs, logprob= -61128.16 ppl= 261.7872 ppl1= 413.6904
+
+label2 2gram train :file ./SplitedData/train/label2.txt: 1920 sentences, 23361 words, 0 OOVs
+0 zeroprobs, logprob= -64826.43 ppl= 366.6361 ppl1= 595.6419
+
+label2 3gram train :file ./SplitedData/train/label2.txt: 1920 sentences, 23361 words, 0 OOVs
+0 zeroprobs, logprob= -69067.97 ppl= 539.5245 ppl1= 904.7955
+
+label2 1gram test :file ./SplitedData/test/label2.txt: 7685 sentences, 110936 words, 21756 OOVs
+0 zeroprobs, logprob= -225275.4 ppl= 211.6721 ppl1= 335.7959
+
+label2 2gram test :file ./SplitedData/test/label2.txt: 7685 sentences, 110936 words, 21756 OOVs
+0 zeroprobs, logprob= -243637.7 ppl= 327.5134 ppl1= 539.4815
+
+label2 3gram test :file ./SplitedData/test/label2.txt: 7685 sentences, 110936 words, 21756 OOVs
+0 zeroprobs, logprob= -249183.3 ppl= 373.6631 ppl1= 622.5314
+
+

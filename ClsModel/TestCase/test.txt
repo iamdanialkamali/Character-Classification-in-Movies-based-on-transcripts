@@ -1,0 +1,5 @@
+c1 a2 a3 b2 a4
+c2 e3 b1 d2 e4
+c1 b2 b1 a3 a4 d1
+c2 a2 d3 e4 d2 b1
+c1 d5 e4 e2 a1 a3 d2

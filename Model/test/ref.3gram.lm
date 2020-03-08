@@ -1,0 +1,17 @@
+<s>|dogs|chase|0.3076
+dogs|chase|cats|0.1666
+chase|cats|</s>|0.2
+<s>|dogs|barks|0.1538
+dogs|bark|</s>|0.2
+<s>|cats|meow|0.1818
+cats|meow|</s>|0.2
+dogs|chase|birds|0.1666
+chase|birds|</s>|0.2727
+<s>|cats|chase|0.1818
+cats|chase|birds|0.2
+dogs|chase|the|0.1666
+chase|the|cats|0.2
+the|cats|</s>|0.2
+<s>|the|birds|0.2
+the|birds|chirp|0.2
+birds|chirp|</s>|0.2
